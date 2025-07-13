@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "tinstyle": "^1.0.0",
+    "tinstyle": "^1.0.3",
     "vue": "^3.5.17"
   },
   "devDependencies": {

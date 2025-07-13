@@ -1593,13 +1593,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"tinstyle@npm:^1.0.0":
-  version: 1.0.0
-  resolution: "tinstyle@npm:1.0.0"
+"tinstyle@npm:^1.0.3":
+  version: 1.0.3
+  resolution: "tinstyle@npm:1.0.3"
   peerDependencies:
     react: ">=18.0.0 <20.0.0"
     vue: ">=3.0.0 <4.0.0"
-  checksum: 10c0/8b2b99cc23118f906682a8b2997f67f18745d684b9637e8efb251ce48ce254890b00416a4c8cc7ce606cac113de40364faa95463978eba73f4920ec48ae5936e
+  checksum: 10c0/bf241f0285f0210d06b6cb0791fa7b81eb41903dcd020ece539bf1aa880881f166ee7481796500be1aa33a1f9f937b064d31a43769e2876845f61641ca311760
   languageName: node
   linkType: hard
 
@@ -1609,7 +1609,7 @@ __metadata:
   dependencies:
     "@vitejs/plugin-vue": "npm:^6.0.0"
     "@vue/tsconfig": "npm:^0.7.0"
-    tinstyle: "npm:^1.0.0"
+    tinstyle: "npm:^1.0.3"
     typescript: "npm:~5.8.3"
     vite: "npm:^7.0.4"
     vue: "npm:^3.5.17"
